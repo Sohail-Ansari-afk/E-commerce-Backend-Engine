@@ -114,10 +114,4 @@ register_user("adminuser", "adminpass", role="admin")
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you want me to include a version with actual markdown visuals (e.g., emojis rendered as images or collapsible sections), or if you want to package it as a GitHub-ready project with a proper `requirements.txt` and `.gitignore`.
-```
-
+``
